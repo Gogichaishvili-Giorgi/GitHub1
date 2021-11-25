@@ -18,4 +18,8 @@ import Foundation
  8. git commit -m "bla bla bla"
  9. git push origin master
  if username and password is required - username - "Gogicha" and password is Personal access token if you don't rememeber that token it is recommended to create new token and copy and paste it somewhere else
+ 10. how to set userName - git config --global user.name "Mona Lisa"
+ confirmation - $ git config --global user.name
+ > Mona Lisa$ git config --global user.name
+ > Mona Lisa
  */
